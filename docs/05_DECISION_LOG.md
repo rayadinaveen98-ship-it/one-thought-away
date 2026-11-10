@@ -13,6 +13,9 @@
 | ST-009 | Repository **public** visibility (observed) | Needs owner decision | Recommend private for unpublished material |
 | ST-010 | Character costume, Mammaya/Dad appearances, exact locations | Open | Character design sheets |
 | ST-011 | Teleport effect & final ending shot | Open | Three visual tests / storyboard |
+| ST-012 | Anu look-dev v0.1: soft stylized face, four-view turnaround, facial expression exploration | First generated concept; **not approved** | User review before geometry or rig |
+| ST-013 | Yellow floral dress, bunny bag, light shoes | Proposed costume options only | Confirm, revise or discard |
+| ST-014 | Invented portals, castles, final tree, full Amma portrait and unapproved ages from generated mood boards | **Rejected as canon** | Follow story bible and do not use without explicit change approval |
 
 ## Change record format
 For each revision record: date; proposed change; reason; continuity impact; production cost; exact approval; affected shot or asset IDs. Keep proposals separate from approvals.
