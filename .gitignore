@@ -1,0 +1,33 @@
+# Blender temporary/backups
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+__pycache__/
+*.pyc
+
+# Working and final renders
+renders/**/*.exr
+renders/**/*.png
+renders/**/*.jpg
+renders/**/*.mp4
+renders/**/*.mov
+renders/**/*.wav
+*.tmp
+*.log
+
+# Caches and large production data
+cache/
+temp/
+tmp/
+*.vdb
+*.abc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep folder placeholders
+!renders/README.md
