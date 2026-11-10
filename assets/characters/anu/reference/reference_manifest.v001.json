@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "asset_id": "CH_ANU",
+  "reference_release": null,
+  "status": "awaiting_original_files",
+  "look_approval": "in_principle",
+  "visual_inspection_performed": false,
+  "references": [
+    {
+      "filename": "anu_turnaround_exploration_v01.png",
+      "repository_path": null,
+      "sha256": null,
+      "width_px": null,
+      "height_px": null,
+      "availability": "named_in_chat_not_retrieved",
+      "identity_anchor_view": null
+    },
+    {
+      "filename": "anu_expressions_exploration_v01.png",
+      "repository_path": null,
+      "sha256": null,
+      "width_px": null,
+      "height_px": null,
+      "availability": "named_in_chat_not_retrieved",
+      "identity_anchor_view": null
+    }
+  ],
+  "model_release": null,
+  "rig_release": null,
+  "notes": "Registry only. No original image bytes, validated measurements, 3D geometry or passed gate is implied.",
+  "source_description": "Owner's earlier character-development delivery; private conversation identifiers omitted."
+}

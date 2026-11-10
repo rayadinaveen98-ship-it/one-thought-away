@@ -1,7 +1,8 @@
 # Anu look-development review — Exploration v0.1
 
 **Date:** 2026-11-11
-**Status:** FIRST VISUAL STUDY — NOT APPROVED / NOT MODELED
+**Status (updated 2026-11-11):** CURRENT LOOK APPROVED IN PRINCIPLE / SOURCE PIXELS NOT RECOVERED / NOT MODELED
+**Historical review:** sections below retain the v0.1 study notes; they are not a new pixel inspection. [Reference control v0.2](07_ANU_REFERENCE_LOCK.md) governs the current gate.
 **Owner review required before:** character proportion lock, costume lock, facial rig, final model.
 **Generated review sheets:** `anu_turnaround_exploration_v01.png` and `anu_expressions_exploration_v01.png` were made as conversation attachments; **not yet committed** to GitHub. They are visual proposals, not canonical asset files.
 
@@ -56,4 +57,4 @@ Before 3D modeling, review:
 - [ ] Choose/look-test a neutral, daylight and emotional-lighting reference
 - [ ] Approve turnaround or request v0.2 revisions
 
-**Immediate next milestone:** user review of Anu visual proposal; only then make precise orthographic modeling references and a Blender rigging proof of concept.
+**Immediate next milestone (updated):** recover and archive the exact original concept PNGs, inspect continuity, prepare a corrected modeling packet preserving the accepted look, then execute the bounded rig test. Approval in principle does not close the unchecked construction/costume gates.

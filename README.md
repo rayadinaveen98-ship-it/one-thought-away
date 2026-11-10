@@ -6,7 +6,7 @@
 
 ## Current status
 - **Project:** One Thought Away
-- **Stage:** 00 — Production foundation / creative development
+- **Stage:** Pre-production — Anu reference control and feasibility planning
 - **Lead:** Anu (age 5)
 - **Story setting:** A warm, lived-in South Indian family world
 - **Working runtime:** 8–9 minutes (proposal, not locked)
@@ -44,3 +44,13 @@ sound/     Voice, music and sound planning
 5. Keep large render caches outside ordinary Git. Record third-party licenses.
 
 **Rights:** This is an original creative project. No public reuse license has been granted. Public GitHub visibility does not automatically grant a license to use the work.
+
+## Anu production control — 2026-11-11
+Current look approved **in principle**. Exact original concept PNGs are still missing from the repository and were not retrievable from the prior chat in this session. No Blender character, rig or tested animation is delivered.
+- [Look-development review](docs/06_ANU_LOOKDEV_REVIEW.md)
+- [Reference source of truth and consistency gates](docs/07_ANU_REFERENCE_LOCK.md)
+- [Bounded Blender/rig feasibility test](docs/08_ANU_FEASIBILITY_TEST.md)
+- [Next modeling handoff deliverable](docs/09_NEXT_DELIVERABLE_ANU_PACKET.md)
+- [Reference registry (pending original files)](assets/characters/anu/reference/reference_manifest.v001.json)
+
+The Blender version above remains an untested proposal. Preserve the accepted face/hair direction; recover original references before deriving construction specifications.
