@@ -27,3 +27,6 @@
 
 ## Casting/rig workflow
 For each visible character, approve silhouette, turnaround, 6–8 expression studies, gesture sheet, color/material sheet and rig feasibility before final model. Add no unapproved central characters solely to fill runtime.
+
+## Visual exploration
+**Anu's first visual exploration is ready for review, not yet approved.** See [Anu look-development review](06_ANU_LOOKDEV_REVIEW.md). The generated yellow dress and bunny bag are only candidates. The canon butterfly clip, dark shoulder-length hair and age-five anatomy remain mandatory.
