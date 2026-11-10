@@ -1,0 +1,38 @@
+{
+  "checks": {
+    "all_96_sampled_frames_finite": true,
+    "head_marker_max_error_below_1e-5": true,
+    "weighted_sleeve_moves": true,
+    "neutral_return_geometry_matches": true,
+    "linked_asset_pose_geometry_matches": true,
+    "relocated_relative_library_geometry_matches": true,
+    "reopened_render_pixels_match": true
+  },
+  "all_passed": true,
+  "marker_max_world_error": 4.777820964108429e-07,
+  "sleeve_max_vertex_displacement": 0.7974946765830357,
+  "reopened_render_max_channel_error": 0.0,
+  "reopened_render_seconds": 27.162,
+  "original_geometry_signatures": {
+    "1": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0",
+    "25": "0f37a93e23bdebc12f8782ec03ff6b29f5f0349b05aa5793c7ebea1b6047e52f",
+    "49": "7fbc469a109e11940e87be22c0aace257619f1f1ce440f83f9ecf3bbc65c9726",
+    "73": "ada2ab6549da1860f652e9209a2263ff6985f97e7d468d652e01215b36beab1c",
+    "96": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0"
+  },
+  "linked_geometry_signatures": {
+    "1": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0",
+    "25": "0f37a93e23bdebc12f8782ec03ff6b29f5f0349b05aa5793c7ebea1b6047e52f",
+    "49": "7fbc469a109e11940e87be22c0aace257619f1f1ce440f83f9ecf3bbc65c9726",
+    "73": "ada2ab6549da1860f652e9209a2263ff6985f97e7d468d652e01215b36beab1c",
+    "96": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0"
+  },
+  "relocated_geometry_signatures": {
+    "1": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0",
+    "25": "0f37a93e23bdebc12f8782ec03ff6b29f5f0349b05aa5793c7ebea1b6047e52f",
+    "49": "7fbc469a109e11940e87be22c0aace257619f1f1ce440f83f9ecf3bbc65c9726",
+    "73": "ada2ab6549da1860f652e9209a2263ff6985f97e7d468d652e01215b36beab1c",
+    "96": "0b0efce437fa1ec96379ca2959a09419cb3aad3dd1285f81eae0e8cda372c4d0"
+  },
+  "scope": "Generic engineering probe only; no Anu likeness, smooth-joint approval, facial acting or production performance validation."
+}

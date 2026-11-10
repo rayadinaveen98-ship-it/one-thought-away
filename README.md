@@ -46,11 +46,14 @@ sound/     Voice, music and sound planning
 **Rights:** This is an original creative project. No public reuse license has been granted. Public GitHub visibility does not automatically grant a license to use the work.
 
 ## Anu production control — 2026-11-11
-Current look approved **in principle**. Exact original concept PNGs are still missing from the repository and were not retrievable from the prior chat in this session. No Blender character, rig or tested animation is delivered.
+Current look approved **in principle**. Exact original concept PNGs are still missing from the repository and were not retrievable from the prior chat in this session. No Anu model, rig or character animation is delivered. A separate generic engineering probe has now been built and tested; see the executed test report below.
 - [Look-development review](docs/06_ANU_LOOKDEV_REVIEW.md)
 - [Reference source of truth and consistency gates](docs/07_ANU_REFERENCE_LOCK.md)
 - [Bounded Blender/rig feasibility test](docs/08_ANU_FEASIBILITY_TEST.md)
 - [Next modeling handoff deliverable](docs/09_NEXT_DELIVERABLE_ANU_PACKET.md)
 - [Reference registry (pending original files)](assets/characters/anu/reference/reference_manifest.v001.json)
 
-The Blender version above remains an untested proposal. Preserve the accepted face/hair direction; recover original references before deriving construction specifications.
+Blender 5.3.0 is locally installed and has passed the bounded engineering checks below; production character feasibility remains untested. Preserve the accepted face/hair direction; recover original references before deriving construction specifications.
+
+## Executed technical progress
+[Pipeline probe and seven verification results](docs/11_EXECUTED_PIPELINE_PROBE.md): saved 17-bone generic rig, weighted-mesh motion, four pose renders, four-second preview, clean reopen, linked asset reuse and relocated relative-library checks. Rebuild scripts and machine-readable evidence are versioned. This is engineering evidence, not Anu's design or character approval.
