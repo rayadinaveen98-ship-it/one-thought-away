@@ -57,3 +57,6 @@ Blender 5.3.0 is locally installed and has passed the bounded engineering checks
 
 ## Executed technical progress
 [Pipeline probe and seven verification results](docs/11_EXECUTED_PIPELINE_PROBE.md): saved 17-bone generic rig, weighted-mesh motion, four pose renders, four-second preview, clean reopen, linked asset reuse and relocated relative-library checks. Rebuild scripts and machine-readable evidence are versioned. This is engineering evidence, not Anu's design or character approval.
+
+## Actual Anu reference candidate
+[Replacement Anu v0.2 and review status](docs/12_ANU_REPLACEMENT_CANDIDATE.md): the PNG itself is now archived in this branch with its prompt and checksum. It is a newly authorized proposal based on written canon, not a recovered original or an approved 3D model. Owner visual review precedes the corrected modeling packet.

@@ -40,3 +40,6 @@ Store source commit, asset checksum, Blender build, packed/external dependency m
 All shots link the same approved asset version. Log deliberate overrides; no per-shot facial reshaping, clip relocation or hair redesign.
 Compare neutral front/profile/three-quarter renders and expression extremes side by side with the reference packet. Fail on altered age read, head/eye spacing, hair silhouette, clip position or teeth. Lighting variation must not disguise drift.
 Changes require a new version, reason, impact, comparison evidence and owner decision when appearance changes.
+
+## Owner-authorized replacement route — 2026-11-11
+The owner confirmed having no images and authorized designing Anu if the old artwork cannot be recovered. [Replacement candidate v0.2](12_ANU_REPLACEMENT_CANDIDATE.md) is now archived with original generated pixels, prompt and SHA-256. It is PENDING VISUAL APPROVAL, not a recovered original and not automatically covered by v0.1 approval in principle. Once the owner approves the specific replacement, it may serve as the R0 baseline; archive that approval against its hash and retain the missing-original registry as historical evidence. R1 and character-specific technical gates still apply.

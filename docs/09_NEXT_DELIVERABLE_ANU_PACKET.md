@@ -1,5 +1,5 @@
 # Next deliverable — Anu modeling handoff v0.1
-Date: 2026-11-11. Status: handoff brief ready; visual packet pending original references.
+Date: 2026-11-11. Status: handoff brief ready; original references missing. Update: a newly authorized [replacement candidate](12_ANU_REPLACEMENT_CANDIDATE.md) now awaits owner visual review. If approved, use its archived pixels as the baseline for the ordered construction work below; do not claim original recovery.
 
 ## Scope
 Continue the accepted Anu look into a buildable reference packet, then the bounded test in 08_ANU_FEASIBILITY_TEST.md. No new plot, dialogue, ending, locations or supporting cast design.
