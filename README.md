@@ -6,7 +6,7 @@
 
 ## Current status
 - **Project:** One Thought Away
-- **Stage:** 00 — Production foundation / creative development
+- **Stage:** Pre-production — Anu reference control and feasibility planning
 - **Lead:** Anu (age 5)
 - **Story setting:** A warm, lived-in South Indian family world
 - **Working runtime:** 8–9 minutes (proposal, not locked)
@@ -44,3 +44,22 @@ sound/     Voice, music and sound planning
 5. Keep large render caches outside ordinary Git. Record third-party licenses.
 
 **Rights:** This is an original creative project. No public reuse license has been granted. Public GitHub visibility does not automatically grant a license to use the work.
+
+## Anu production control — 2026-11-11
+Current look approved **in principle**. Exact original concept PNGs are still missing from the repository and were not retrievable from the prior chat in this session. No Anu model, rig or character animation is delivered. A separate generic engineering probe has now been built and tested; see the executed test report below.
+- [Look-development review](docs/06_ANU_LOOKDEV_REVIEW.md)
+- [Reference source of truth and consistency gates](docs/07_ANU_REFERENCE_LOCK.md)
+- [Bounded Blender/rig feasibility test](docs/08_ANU_FEASIBILITY_TEST.md)
+- [Next modeling handoff deliverable](docs/09_NEXT_DELIVERABLE_ANU_PACKET.md)
+- [Reference registry (pending original files)](assets/characters/anu/reference/reference_manifest.v001.json)
+
+Blender 5.3.0 is locally installed and has passed the bounded engineering checks below; production character feasibility remains untested. Preserve the accepted face/hair direction; recover original references before deriving construction specifications.
+
+## Executed technical progress
+[Pipeline probe and seven verification results](docs/11_EXECUTED_PIPELINE_PROBE.md): saved 17-bone generic rig, weighted-mesh motion, four pose renders, four-second preview, clean reopen, linked asset reuse and relocated relative-library checks. Rebuild scripts and machine-readable evidence are versioned. This is engineering evidence, not Anu's design or character approval.
+
+## Actual Anu reference candidate
+[Replacement Anu v0.2 and review status](docs/12_ANU_REPLACEMENT_CANDIDATE.md): the PNG itself is now archived in this branch with its prompt and checksum. It is a newly authorized proposal based on written canon, not a recovered original or an approved 3D model. Owner visual review precedes the corrected modeling packet.
+
+## Anu approval and actual 3D study — 2026-11-11
+The owner approved the replacement PNG as visual baseline CH_ANU_ref_v002. Exact views, a packed reference workspace, a real editable head study and two 960×1200 Cycles portraits are now available. **The head has NOT passed likeness or final-quality review and is not rigged.** [Native model, renders, defects and production handoff](docs/13_ANU_APPROVED_BASELINE_AND_MODEL_HANDOFF.md). This update supersedes earlier pending-approval wording for the 2D sheet; it does not declare the character finished.

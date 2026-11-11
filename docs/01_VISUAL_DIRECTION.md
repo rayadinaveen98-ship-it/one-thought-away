@@ -32,4 +32,4 @@ Playful, subjective and brief: an almost imperceptible spatial ripple, edit-time
 4. A photo-discovery frame, without premature memory images.
 5. Teleportation treatment comparisons; short rig/acting test.
 
-**Status:** recommendation. No designs, environments, animation or renders have been approved yet.
+**Status (2026-11-11):** overall visual direction remains a recommendation. Anu's current concept look is approved in principle; exact source ingest and final design lock are pending. Environments, animation and renders are not approved. See [reference control](07_ANU_REFERENCE_LOCK.md).

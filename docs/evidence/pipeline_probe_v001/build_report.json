@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "asset": "GENERIC_TECH_PROBE",
+  "not_anu": true,
+  "blender": "5.3.0",
+  "build_hash": "02f0899d78e3",
+  "engine": "BLENDER_EEVEE",
+  "resolution": [
+    800,
+    640
+  ],
+  "fps": 24,
+  "frame_range": [
+    1,
+    96
+  ],
+  "bones": 17,
+  "objects": 40,
+  "timings": [
+    {
+      "frame": 1,
+      "pose": "neutral",
+      "seconds": 39.428
+    },
+    {
+      "frame": 25,
+      "pose": "reach",
+      "seconds": 11.239
+    },
+    {
+      "frame": 49,
+      "pose": "lean",
+      "seconds": 11.129
+    },
+    {
+      "frame": 73,
+      "pose": "head_turn",
+      "seconds": 8.329
+    }
+  ],
+  "save_sha256": "733a4c0b4b24af5e98fe3130ef68dc87998342431dd57c02f623a3b19075a981",
+  "limitations": [
+    "Not character likeness evidence",
+    "Not a facial rig",
+    "FK probe; no foot contact validation",
+    "No production cost extrapolation"
+  ]
+}

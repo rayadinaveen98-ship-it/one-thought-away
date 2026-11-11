@@ -1,0 +1,21 @@
+{
+  "source_blend": "anu_head_likeness_study_v007.blend",
+  "render_file": "cycles_front.png",
+  "engine": "CYCLES",
+  "device": "CPU",
+  "devices": [
+    {
+      "name": "CPU",
+      "type": "CPU",
+      "enabled": true
+    }
+  ],
+  "seconds": 183.097,
+  "samples": 128,
+  "resolution_percentage": 100,
+  "resolution_base": [
+    960,
+    1200
+  ],
+  "status": "WIP_LIKENESS_RENDER_NOT_FINAL_CHARACTER"
+}

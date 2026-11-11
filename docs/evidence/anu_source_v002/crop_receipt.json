@@ -1,0 +1,55 @@
+{
+  "asset_id": "CH_ANU",
+  "source_sha256": "1b19b51c7d24d44c66ea0d27404e1886ea1683b5730b7b8deb1f92154efff890",
+  "method": "Exact rectangular crop; no scaling, repainting or AI regeneration",
+  "views": [
+    {
+      "view": "front",
+      "filename": "anu_front_exact_crop.png",
+      "crop_xywh": [
+        145,
+        82,
+        282,
+        552
+      ],
+      "sha256": "e2b12db95876f62e474e1f7e26aabe713aa93bbe1d5e927fac8461ec27450292",
+      "rgb_pixel_sha256": "c9ed6d9ecae205083adb17646154827156be862df46a659693c9863587021a9c"
+    },
+    {
+      "view": "left_profile",
+      "filename": "anu_left_profile_exact_crop.png",
+      "crop_xywh": [
+        821,
+        82,
+        252,
+        552
+      ],
+      "sha256": "f93808620fb659262a295670c13fc64176561f15f8db4c27a31ee7825506f8a1",
+      "rgb_pixel_sha256": "5c8e2a696690be628599bede12060493a4abc3c814d734cf2238aed0fc5dfc2e"
+    },
+    {
+      "view": "back",
+      "filename": "anu_back_exact_crop.png",
+      "crop_xywh": [
+        1115,
+        82,
+        292,
+        552
+      ],
+      "sha256": "6632e849ebb45ebff92495dd5a896b6e12b8115b10f3ecca50dcac3be8ae9440",
+      "rgb_pixel_sha256": "aa6e00922df38d0969e7180f90af98b0ada473e638f9da70651149245d31c471"
+    },
+    {
+      "view": "threequarter",
+      "filename": "anu_threequarter_exact_crop.png",
+      "crop_xywh": [
+        485,
+        82,
+        282,
+        552
+      ],
+      "sha256": "21dcba67ac6b18bd757bfcc45ba74d44a5b8d1bed8439fbd104499921a255082",
+      "rgb_pixel_sha256": "4e2f1957f3254829dd3620835bbc92a58dfe7b84de5d7b6465bee7591551cc56"
+    }
+  ]
+}

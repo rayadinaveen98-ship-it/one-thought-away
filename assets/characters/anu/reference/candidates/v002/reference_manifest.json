@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "asset_id": "CH_ANU",
+  "candidate_id": "CH_ANU_candidate_v002",
+  "status": "approved_visual_baseline",
+  "reference_release": "CH_ANU_ref_v002",
+  "original_v001_recovered": false,
+  "origin": "New AI-generated replacement from written canon, authorized by owner after missing-reference recovery attempts.",
+  "generator": "built-in image generation",
+  "files": [
+    {
+      "path": "assets/characters/anu/reference/candidates/v002/anu_replacement_concept_v02.png",
+      "sha256": "1b19b51c7d24d44c66ea0d27404e1886ea1683b5730b7b8deb1f92154efff890",
+      "git_blob_sha": "218ccf3b0f427cf55b015ca75d1ac9ddf75d0bd1",
+      "width_px": 1536,
+      "height_px": 1024
+    }
+  ],
+  "review": {
+    "visual_inspection_performed": true,
+    "exact_match_to_lost_artwork_verified": false,
+    "orthographic_alignment_verified": false,
+    "face_approved": true,
+    "wardrobe_approved": true,
+    "clip_side_approved": true,
+    "hair_approved": true
+  },
+  "model_release": null,
+  "rig_release": null,
+  "owner_approval": {
+    "date": "2026-11-11",
+    "scope": "Visual appearance of the v0.2 sheet approved. No exact 3D match, physical height, final topology, rig or render-quality acceptance is implied."
+  }
+}

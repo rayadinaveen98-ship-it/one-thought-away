@@ -1,0 +1,35 @@
+{
+  "asset_id": "CH_ANU",
+  "stage": "LOCAL_HEAD_LIKENESS_STUDY",
+  "blender": "5.3.0",
+  "build_hash": "02f0899d78e3",
+  "blend_sha256": "319be176dca11c66849fa02ddf8c9b9d68293f1a2273d50613067582c47e2aa1",
+  "source_png_sha256": "1b19b51c7d24d44c66ea0d27404e1886ea1683b5730b7b8deb1f92154efff890",
+  "mesh_objects": 61,
+  "mesh_control_vertices": 156269,
+  "hair_mesh_locks": 38,
+  "hair_detail_curves": 114,
+  "orbital_mean_normal_y": {
+    "L": -0.7777782752572631,
+    "R": -0.777792722147961
+  },
+  "structural_checks": {
+    "reopened_saved_mesh": true,
+    "all_mesh_coordinates_finite": true,
+    "packed_source_matches_approved_png": true,
+    "hidden_orbital_reference_normals_face_forward": true,
+    "clip_geometry_on_anatomical_left": true,
+    "no_rig_claimed_or_present": true
+  },
+  "all_structural_checks_passed": true,
+  "likeness_gate": "NOT_PASSED",
+  "production_quality_gate": "NOT_PASSED",
+  "animation_ready": false,
+  "limitations": [
+    "Bust only",
+    "Boolean-cut orbital loops and separate lip surfaces need production retopology",
+    "No mouth cavity or teeth",
+    "No facial or body rig",
+    "Physical scale unconfirmed"
+  ]
+}
