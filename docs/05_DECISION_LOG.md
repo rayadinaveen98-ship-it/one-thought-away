@@ -26,3 +26,6 @@ For each revision record: date; proposed change; reason; continuity impact; prod
 - Scope/cost impact: documentation and reference preparation only; no paid generation, story rewrite, cast expansion or production shot commitment. ST-013 costume options remain unresolved.
 
 - ST-017 — Owner authorized designing Anu if no artwork could be recovered and confirmed having no images. Replacement candidate v0.2 generated and archived as actual PNG, prompt and checksum. Status: PENDING OWNER VISUAL REVIEW; not recovered v0.1 and not a 3D asset. Face construction, plain dress/shoes and anatomical-left clip placement are proposals. Once explicitly accepted, this candidate can establish a replacement R0 baseline; R1/model/rig gates remain open. No story change.
+
+- ST-018 — 2026-11-11: owner approved Anu replacement v0.2's visual appearance and authorized Blender work. CH_ANU_ref_v002 now records the exact PNG as baseline. This is not a physical-height, 3D likeness, rig or final-render approval.
+- ST-019 — Exact source views and a packed reference workspace created. Local head study v007 and actual Cycles CPU portraits are archived with source and integrity checks. LIKENESS/FINAL QUALITY NOT PASSED; no production model or rig release. See 13 for defects and required character-artist refinement. External image-to-3D produced no mesh. No story change.

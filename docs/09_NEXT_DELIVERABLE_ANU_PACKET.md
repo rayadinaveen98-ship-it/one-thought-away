@@ -25,3 +25,6 @@ Continue the accepted Anu look into a buildable reference packet, then the bound
 Read the retrieved earlier chat and all seven existing production documents (00–06), README and full repository path inventory at baseline 19cda4e4dea481186b56840ff8022e0915048e02.
 Recovered approval context and reference filenames, not images. No visual assessment of original pixels occurred. Added reference registry, measurable review gates and a bounded handoff/test specification; updated stale approval status. Story canon and film structure remain unchanged.
 The immediate external dependency is the two original PNG files. Their recovery is necessary to preserve the exact accepted character; generating a new look would not resolve it.
+
+## Updated next deliverable — 2026-11-11
+Replacement visual baseline approved; exact crops/reference workspace completed; local head study produced. The study does not meet the approved likeness or final-quality bar. The next substantive deliverable is the artist-refined, reference-matched head and corrected construction packet specified in [13](13_ANU_APPROVED_BASELINE_AND_MODEL_HANDOFF.md), followed by full body and rig feasibility. Original-file recovery is no longer the sole route forward; it remains historically unresolved.

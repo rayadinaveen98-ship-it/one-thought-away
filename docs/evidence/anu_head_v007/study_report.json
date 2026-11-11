@@ -1,0 +1,16 @@
+{
+  "status": "WIP_LIKENESS_STUDY_NOT_APPROVED",
+  "blender": "5.3.0",
+  "mesh_objects": 61,
+  "hair_mesh_locks": 38,
+  "hair_detail_curves": 114,
+  "rig_present": false,
+  "timings": [],
+  "known_limits": [
+    "No accepted likeness check yet",
+    "Boolean-cut orbital loops and lip surfaces require production retopology",
+    "No facial rig, teeth or mouth cavity",
+    "Bust only; no full body",
+    "Not a finished film render"
+  ]
+}

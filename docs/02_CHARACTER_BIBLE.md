@@ -33,3 +33,6 @@ For each visible character, approve silhouette, turnaround, 6–8 expression stu
 
 ## Reproducibility control
 Use [Anu reference control](07_ANU_REFERENCE_LOCK.md), [feasibility test](08_ANU_FEASIBILITY_TEST.md) and [next handoff](09_NEXT_DELIVERABLE_ANU_PACKET.md). Original image pixels were not retrievable in this continuation. No 3D model or rig exists in the inspected repository; do not treat generated 2D studies as geometry or approved orthographic blueprints.
+
+## Current Anu baseline — 2026-11-11
+The owner has approved the [replacement v0.2 sheet](12_ANU_REPLACEMENT_CANDIDATE.md) as visual baseline CH_ANU_ref_v002. Its face, hair, yellow dress/light shoes and clip direction are accepted in the drawing; physical construction and final 3D interpretation are not. [Local 3D head study and quality handoff](13_ANU_APPROVED_BASELINE_AND_MODEL_HANDOFF.md) records actual Blender work that has NOT passed likeness or final-quality review. Use the approved PNG, never the unaccepted draft, to settle appearance differences.

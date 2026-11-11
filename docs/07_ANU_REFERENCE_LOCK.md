@@ -43,3 +43,6 @@ Changes require a new version, reason, impact, comparison evidence and owner dec
 
 ## Owner-authorized replacement route — 2026-11-11
 The owner confirmed having no images and authorized designing Anu if the old artwork cannot be recovered. [Replacement candidate v0.2](12_ANU_REPLACEMENT_CANDIDATE.md) is now archived with original generated pixels, prompt and SHA-256. It is PENDING VISUAL APPROVAL, not a recovered original and not automatically covered by v0.1 approval in principle. Once the owner approves the specific replacement, it may serve as the R0 baseline; archive that approval against its hash and retain the missing-original registry as historical evidence. R1 and character-specific technical gates still apply.
+
+## Approval recorded — 2026-11-11
+The owner approved replacement v0.2's visible look and authorized Blender work. R0 is now passed for CH_ANU_ref_v002 at PNG SHA-256 1b19b51c7d24d44c66ea0d27404e1886ea1683b5730b7b8deb1f92154efff890. This does not recover v0.1 or accept a 3D match. R1 construction corrections and all Anu production-quality gates remain open. [Actual head study and quality handoff](13_ANU_APPROVED_BASELINE_AND_MODEL_HANDOFF.md) records completed geometry and the failed likeness/final-quality assessment; it is not a master release.

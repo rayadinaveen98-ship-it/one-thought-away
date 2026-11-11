@@ -1,0 +1,51 @@
+{
+  "asset_id": "CH_ANU",
+  "status": "REFERENCE_WORKSPACE_ONLY",
+  "blender": "5.3.0",
+  "build_hash": "02f0899d78e3",
+  "packed_references": [
+    {
+      "name": "anu_back_exact_crop.png",
+      "size": [
+        292,
+        552
+      ],
+      "packed": true
+    },
+    {
+      "name": "anu_front_exact_crop.png",
+      "size": [
+        282,
+        552
+      ],
+      "packed": true
+    },
+    {
+      "name": "anu_left_profile_exact_crop.png",
+      "size": [
+        252,
+        552
+      ],
+      "packed": true
+    },
+    {
+      "name": "anu_threequarter_exact_crop.png",
+      "size": [
+        282,
+        552
+      ],
+      "packed": true
+    }
+  ],
+  "no_mesh_present": true,
+  "no_rig_present": true,
+  "render_executed": false,
+  "normalized_reference_height": 1.0,
+  "physical_scale_locked": false,
+  "blend_sha256": "98708b7398eb6b3f66558b803b6be6af80e1eef336f76ac8079f35ff344cd5c9",
+  "checks": {
+    "saved_and_reopened": true,
+    "four_reference_images_packed": true,
+    "no_placeholder_character_mesh": true
+  }
+}

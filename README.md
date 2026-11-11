@@ -60,3 +60,6 @@ Blender 5.3.0 is locally installed and has passed the bounded engineering checks
 
 ## Actual Anu reference candidate
 [Replacement Anu v0.2 and review status](docs/12_ANU_REPLACEMENT_CANDIDATE.md): the PNG itself is now archived in this branch with its prompt and checksum. It is a newly authorized proposal based on written canon, not a recovered original or an approved 3D model. Owner visual review precedes the corrected modeling packet.
+
+## Anu approval and actual 3D study — 2026-11-11
+The owner approved the replacement PNG as visual baseline CH_ANU_ref_v002. Exact views, a packed reference workspace, a real editable head study and two 960×1200 Cycles portraits are now available. **The head has NOT passed likeness or final-quality review and is not rigged.** [Native model, renders, defects and production handoff](docs/13_ANU_APPROVED_BASELINE_AND_MODEL_HANDOFF.md). This update supersedes earlier pending-approval wording for the 2D sheet; it does not declare the character finished.

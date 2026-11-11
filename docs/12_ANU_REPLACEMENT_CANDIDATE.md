@@ -1,5 +1,5 @@
 # Anu replacement candidate — v0.2
-Date: 2026-11-11. Status: GENERATED AND ARCHIVED; OWNER VISUAL REVIEW PENDING.
+Date: 2026-11-11. Status: APPROVED VISUAL BASELINE; FINAL CONSTRUCTION AND 3D LIKENESS NOT APPROVED.
 This is a new proposed 2D design, not the missing original, not an exact-match reconstruction, not an approved modeling blueprint and not a Blender model.
 
 ## Why a replacement exists
@@ -40,3 +40,6 @@ The precise original requested files were:
 - anu_expressions_exploration_v01.png — facial expression studies.
 Both came from the earlier character-development delivery. A readable uncropped screenshot of that exact artwork could help identify the old look if original downloads fail, but must be labeled screenshot evidence.
 Do not use unrelated mood boards, the generic engineering figure, other-story characters or new AI generations as the missing original.
+
+## Subsequent owner approval — 2026-11-11
+The owner approved the sheet's visible look and authorized Blender work. The earlier proposal/review wording above records its creation stage and is superseded for visual approval by this update and the registry. Exact physical scale and hidden forms remain unresolved. CH_ANU_ref_v002 is the baseline; the local head study in 13 is not an accepted 3D replacement for this image.
